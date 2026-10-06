@@ -33,3 +33,7 @@ Test de lógica de negocio (función de validación validateTaskTitle).
 
 🎥 Enlace Video DEMO
 YouTube: https://www.youtube.com/shorts/GQwgEH9SppE
+
+<img width="621" height="257" alt="image" src="https://github.com/user-attachments/assets/a7b154af-6a7f-4782-bc6d-64087e8365da" />
+
+
