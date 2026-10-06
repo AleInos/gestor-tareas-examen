@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gestor-tareas",
+    "slug": "gestor-tareas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" } }
+  }
+}
