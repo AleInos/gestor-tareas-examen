@@ -22,7 +22,7 @@ export default function CreateTaskScreen({ navigation }) {
 
     await Notifications.scheduleNotificationAsync({
       content: { 
-        title: "¡Recordatorio!", 
+        title: "Recordatorio!", 
         body: `Tarea pendiente: ${title}` 
       },
       trigger: { 
